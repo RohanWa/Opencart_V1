@@ -1,0 +1,8 @@
+#execution_env=local
+execution_env=remote
+
+aapURL1=http://localhost/opencart/upload/
+aapURL2=https://tutorialsninja.com/demo/
+email=ronnywagh08@gmail.com
+password=RNwagh@9948
+searchproductthem=iphone
